@@ -13,6 +13,7 @@ ORIGEN = "EZE"
 DESTINOS = [
     ("BCN", "Barcelona"),
     ("MAD", "Madrid"),
+    ("FCO", "Roma"),
     ("CDG", "París")
 ]
 
