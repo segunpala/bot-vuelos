@@ -1,0 +1,5 @@
+{
+  "europa": ["BCN", "MAD", "ROM", "FCO", "LIS", "CDG", "AMS"],
+  "eeuu": ["MIA", "JFK", "LAX", "ORD", "ATL"],
+  "sudamerica": ["GIG", "GRU", "SCL", "MVD", "LIM"]
+}
